@@ -1,3 +1,7 @@
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Temp Pie1207" src="art/header-light.png">
+</picture>
 # 💫 About Me:
 🔭 I'm currently working on: Full-Stack Web Development projects using Next.js, React, Node.js, and MongoDB.<br><br>👯 I'm looking to collaborate on: Open Source Projects, AI-powered applications, and innovative web development projects.<br><br>🤝 I'm looking for help with: Advanced System Design, DevOps, Cloud Computing, and scalable backend architectures.<br><br>🌱 I'm currently learning: Next.js, TypeScript, Three.js, GSAP, AI Integration, and Cloud Technologies.<br><br>💬 Ask me about: JavaScript, React, Next.js, Node.js, Express.js, MongoDB, DSA, and Web Development.<br><br>⚡ Fun fact: I love building premium UI/UX experiences, solving DSA problems, and exploring new technologies.
 
